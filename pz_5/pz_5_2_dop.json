@@ -1,0 +1,35 @@
+{"users": [
+  {
+    "surname": "Иванов",
+    "name": "Иван",
+    "patronymic": "Иванович",
+    "birthdate": "01.01.1990",
+    "birthplace": "Москва",
+    "phone": "8 926 766 48 48",
+    "hobbies": [
+        "авто",
+        "рыбалка",
+        "путешествия"
+    ],
+    "married": false,
+    "children": null
+  },
+  {
+    "surname": "Петрова",
+    "name": "Ксения",
+    "patronymic": "Петровна",
+    "birthdate": "01.01.1985",
+    "birthplace": "Курган",
+    "phone": "8 936 987 12 13",
+    "hobbies": [
+        "вышивание крестиком",
+        "каратэ"
+    ],
+    "married": true,
+    "children": [
+        "Данила",
+        "Илья"
+    ]
+  }
+]  
+}
