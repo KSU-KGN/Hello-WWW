@@ -1,0 +1,50 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: 'Jost', sans-serif;
+}
+html {
+    background: #c7b39b url(images/mnogo-malenkikh-kotyat-oboi-28.jpg); /* Цвет фона и путь к файлу */
+    margin: 17px 17px 17px 17px;
+}
+header, footer {
+    color: darkblue;
+    background-color: lightskyblue;
+}
+main {
+    background-color: lightblue;
+    border: 1px solid blue;
+}
+h1, h2, a {
+    color: rgb(74, 14, 212);
+}
+a:hover {
+    color: green;
+}
+html {
+    text-align: center; /* Выравнивание по центру */ 
+}
+footer {
+    background: #c7b39b url(images/bg_cats.jpg); /* Цвет фона и путь к файлу */
+    height: 300px;
+   }
+
+.clear {
+    clear: left; /* Отмена обтекания */
+   }
+.fig {
+    text-align: center; /* Выравнивание по центру */ 
+   }
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 7px; /* Отступы вокруг картинки */
+   }
+.leftul {
+    text-align: left;
+    padding-left: 40%; 
+}
+.leftol {
+    text-align: left;
+    padding-left: 45%; 
+}
+.myfooter {
+    padding-top: 10px; 
+}
